@@ -13,7 +13,7 @@ class Inmueble:
         self._arriendo=[]
         self._compraventa=None
         
-
+#ooooeee
     def toString(inmueble):
         printer = "{"+str(inmueble._estrato)+", "+inmueble._tipo+" }"
         return printer
