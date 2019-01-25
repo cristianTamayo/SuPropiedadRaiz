@@ -12,7 +12,7 @@ class Inmueble:
         self._tipo = tipo    #El tipo es para saber ACTUALMENTE si esta en compra-venta o en arriendo
         self._arriendo=[]
         self._compraventa=None
-        
+      puntito  
 #ooooeee   #kmas
     def toString(inmueble):
         printer = "{"+str(inmueble._estrato)+", "+inmueble._tipo+" }"
